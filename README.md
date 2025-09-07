@@ -30,10 +30,11 @@ It’s designed as a **practice resource** for anyone preparing for **data inter
 📌 Notes
     All queries are written in POSTGRESQL.
     
-📧 Contact
+📧 Contact 
 👤 **Ali Alaa**  
+
 🔗 [LinkedIn](www.linkedin.com/in/ali-alaa)  
-💻 [GitHub]((https://github.com/Alialaa122))
+💻 [GitHub](https://github.com/Alialaa122)
 
 
 
