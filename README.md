@@ -28,7 +28,7 @@ It’s designed as a **practice resource** for anyone preparing for **data inter
   - Build a solid foundation for data interviews.  
   - Share knowledge with others learning SQL.
 
-📌 Notes
+📌 Notes:
     All queries are written in POSTGRESQL.
     
 📧 Contact 
