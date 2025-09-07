@@ -6,6 +6,7 @@ It’s designed as a **practice resource** for anyone preparing for **data inter
 
 📂 Repository Layout
     Each question has its own folder:
+    
     Each folder includes:
     
     - 📄 `README.md` → Problem statement, schema, and explanation  
