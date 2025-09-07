@@ -5,13 +5,10 @@ This repository contains my solutions to the **Top 50 SQL Interview Questions**,
 It’s designed as a **practice resource** for anyone preparing for **data interviews**.
 
 📂 Repository Layout
-
     Each question has its own folder:
-    Each folder may include:
-    
-    - ✅ Problem Statement  
-    - ✅ SQL Query  
-    - ✅ Explanation / Notes  
+    Each folder includes:
+    - 📄 `README.md` → Problem statement, schema, and explanation  
+    - 💻 `.sql` file → SQL solution 
 
 🛠️ Concepts Practiced
   - Filtering data (`WHERE`, `LIKE`, `BETWEEN`)  
