@@ -31,9 +31,7 @@ It’s designed as a **practice resource** for anyone preparing for **data inter
     All queries are written in POSTGRESQL.
     
 📧 Contact 
-👤 **Ali Alaa**  
-
-🔗 [LinkedIn](www.linkedin.com/in/ali-alaa)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-alaa/)  
 💻 [GitHub](https://github.com/Alialaa122)
 
 
