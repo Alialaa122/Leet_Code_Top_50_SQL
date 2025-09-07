@@ -22,10 +22,18 @@ It’s designed as a **practice resource** for anyone preparing for **data inter
   - Set operators (`UNION`, `INTERSECT`, `EXCEPT`)  
   - Real-world interview-style SQL scenarios  
 
-## 🎯 Goals
+🎯 Goals
   - Strengthen SQL problem-solving skills.  
   - Build a solid foundation for data interviews.  
-  - Share knowledge with others learning SQL.  
+  - Share knowledge with others learning SQL.
+
+📌 Notes
+    All queries are written in POSTGRESQL.
+    
+📧 Contact
+👤 **Ali Alaa**  
+🔗 [LinkedIn](www.linkedin.com/in/ali-alaa)  
+💻 [GitHub]((https://github.com/Alialaa122))
 
 
 
