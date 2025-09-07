@@ -5,8 +5,10 @@ This repository contains my solutions to the **Top 50 SQL Interview Questions**,
 It’s designed as a **practice resource** for anyone preparing for **data interviews**.
 
 📂 Repository Layout
+
     Each question has its own folder:
     Each folder may include:
+    
     - ✅ Problem Statement  
     - ✅ SQL Query  
     - ✅ Explanation / Notes  
@@ -31,6 +33,7 @@ It’s designed as a **practice resource** for anyone preparing for **data inter
     All queries are written in POSTGRESQL.
     
 📧 Contact 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/ali-alaa/)  
 💻 [GitHub](https://github.com/Alialaa122)
 
